@@ -12,4 +12,6 @@ Imports:
     httr,
     falsy,
     whoami
+Remotes:
+    metacran/mason
 RoxygenNote: 5.0.1

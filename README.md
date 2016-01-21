@@ -5,13 +5,10 @@
 
 ## Installation
 
-This package is basically useless without Mason, so please go to
-https://github.com/gaborcsardi/mason first and install that first.
-Then install this package with
+You can install this package from GitHub, using the `devtools` package:
 
 ```r
-library(devtools)
-install_github("gaborcsardi/mason.rpkg")
+devtools::install_github("gaborcsardi/mason.rpkg")
 ```
 
 ## Usage
