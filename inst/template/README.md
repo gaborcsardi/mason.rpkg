@@ -15,4 +15,4 @@ library({{ name }})
 
 ## License
 
-{{ licensenofile }} © {{ author }}
+{{ licensenofile }} © {{ copyrightholder }}
